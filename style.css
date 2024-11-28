@@ -1,0 +1,40 @@
+.smallBox {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+
+body {
+    text-align: center;
+}
+
+#box { 
+   display: flex;
+   justify-content: center;
+}
+
+.pink {
+    background-color: rgb(234, 44, 76);
+}
+
+.green {
+    background-color: rgb(88, 209, 233);
+}
+
+.orange {
+    background-color: rgb(210, 141, 62);
+}
+
+.blue {
+    background-color: rgb(44, 116, 178);
+}
+
+.flash {
+    background-color: white;
+}
+
+.bodyFlash {
+    background-color: red;
+}
