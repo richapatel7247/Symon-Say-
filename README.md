@@ -1,1 +1,1 @@
-This is a game and cat improve your brain power
+This is a game and can improve your brain power
